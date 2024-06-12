@@ -1,0 +1,127 @@
+Name and Surname: rumeysa
+Gender: female
+Date of Birth: 20 7 2002
+Blood group: 8912896
+Packets of blood: 5
+Is Eligible: Yes
+---------------------------------------------
+Name and Surname: rumeysa
+Gender: cevik
+Date of Birth: 20 7 2002
+Blood group: 15990784
+Packets of blood: 5
+Is Eligible: Yes
+---------------------------------------------
+Name and Surname: rumeysa
+Gender: cevik
+Date of Birth: 20 7 2002
+Blood group: 15990784
+Packets of blood: 11
+Is Eligible: Yes
+---------------------------------------------
+Name and Surname: rumeysa
+Gender: �evik
+Date of Birth: 20 7 2002
+Blood group: 16973824
+Packets of blood: 7
+Is Eligible: No
+---------------------------------------------
+Name and Surname: rumeysa
+Gender: cevik
+Date of Birth: 20 4 2007
+Blood group: 8519680
+Packets of blood: 5
+Is Eligible: Yes
+---------------------------------------------
+Name and Surname: rumeysa
+Gender: cevik
+Date of Birth: 20 7 2002
+Blood group: 16646144
+Packets of blood: 5
+Is Eligible: No
+---------------------------------------------
+Name and Surname: rumeysa
+Gender: cevik
+Date of Birth: 20 7 2002
+Blood group: 8716288
+Packets of blood: 2
+Is Eligible: No
+---------------------------------------------
+Name and Surname: abdullah
+Gender: cevik
+Date of Birth: 11 11 2011
+Blood group: 16121856
+Packets of blood: 2
+Is Eligible: Yes
+---------------------------------------------
+Name and Surname: rumeysa cevik
+Gender: female
+Date of Birth: 25 14 5246
+Blood group: 16318464
+Packets of blood: 4
+Is Eligible: Yes
+---------------------------------------------
+Name and Surname: abdullah cevik
+Gender: male
+Date of Birth: 11 11 2011
+Blood group: 16777216
+Packets of blood: 3
+Is Eligible: Yes
+---------------------------------------------
+Name and Surname: abdullah cevik
+Gender: male
+Date of Birth: 11 11 2011
+Blood group: 16777216
+Packets of blood: 5
+Is Eligible: No
+---------------------------------------------
+Name and Surname: ABDULLAH CEV�K 
+Gender: ALE
+Date of Birth: 45 45 4554
+Blood group: 17563648
+Packets of blood: 5
+Is Eligible: No
+---------------------------------------------
+Name and Surname: RUMEYSA CEVIK
+Gender: FEMALE
+Date of Birth: 54 54 5454
+Blood group: 16449536
+Packets of blood: 5
+Is Eligible: No
+---------------------------------------------
+
+Name and Surname: merve demir
+Gender: female
+Date of Birth: 26 8 2002
+Blood group: 1
+Packets of blood: 2
+Is Eligible: Yes
+---------------------------------------------
+Name and Surname: merve
+Gender: female
+Date of Birth: 26 8 2002
+Blood group: 1
+Packets of blood: 89
+Is Eligible: No
+---------------------------------------------
+Name and Surname: ertugrul hoca
+Gender: male
+Date of Birth: 10 10 1010
+Blood group: 1
+Packets of blood: 5
+Is Eligible: Yes
+---------------------------------------------
+Name and Surname: rumeysa cevik
+Gender: female
+Date of Birth: 20 7 2002
+Blood group: 1
+Packets of blood: 5
+Is Eligible: Yes
+---------------------------------------------
+Name and Surname: fdfsd dfd
+Gender: femal8
+Date of Birth: 45 45 4564
+Blood group: 1
+Packets of blood: 1
+Is Eligible: Yes
+---------------------------------------------
