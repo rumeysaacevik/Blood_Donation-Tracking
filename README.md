@@ -1,4 +1,4 @@
-# Donation-Tracking
+ # Donation-Tracking
 
 1) Main Purpose of the Project: 
 The project aims to develop a Blood Donation Tracking System where donors can register, 
@@ -24,8 +24,12 @@ the stock. -deleteBloodStock():Allows the Admin to remove a blood group from the
 Relationships: -Donor: Admin oversees and manages donor information -BloodBank: Admin has control over blood stock management. -Patient: Admin handles patient registrations and login validations.
 
 3) Rules: 
-3.1-)Donors must provide necessary information during registration. 
+3.1-)Donors must provide necessary information during registration.
+   
 3.2-)Admin can manage blood stock, donor information, and patient registrations. 
+
 3.3-)Eligibility checks ensure donors meet health criteria for blood donation. 
+
 3.4-)The system tracks donor information, blood groups, and donation history. 
+
 3.5-)Patients can register, log in, and access their information
