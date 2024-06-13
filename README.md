@@ -94,7 +94,7 @@ Relationships:
 -Patient: Admin handles patient registrations and login validations.
 
 
-4) Rules:
+3) Rules:
 
 3.1-)Donors must provide necessary information during registration.
    
