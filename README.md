@@ -24,30 +24,43 @@ Attributes:
 
 Methods:  
 -save():Handles the process of donor registration and blood donation. 
+
 -checkEligibility: Evaluates the donor's eligibility based on health-related questions. 
+
 -display():Presents detailed information about the donor. 
+
 -writeDonationInfoToFile():Records the donor's information in a file after each donation. 
+
 
 Relationships: 
 - BloodBank: Donors contribute to the blood stock managed by the BloodBank.
-- Admin: Donor information can be accessed by the Admin for monitoring and management. 
+- 
+- Admin: Donor information can be accessed by the Admin for monitoring and management.
+- 
 -Patient: Donors may have relationships with patients through blood donation.
 
 2.2. BloodBank Object: 
 Attributes:
-- Blood Groups: An array representing the different blood groups and their respective stock 
-levels.
+- Blood Groups: An array representing the different blood groups and their respective stock levels.
+
 -Logs: Records of important actions such as stock updates.
+
 
 Methods: 
 - displayBloodGroups(): Presents information about the available blood groups and their stock.
+- 
 -addBloodStock():Increases the stock of a specific blood group.
+
 -updateBloodStock():Modifies the quantity of a specific blood group in the stock.
+
 -deleteBloodStock():Removes a blood group from the stock.
+
 
 Relationships: 
 - Donor: Blood donations from donors contribute to the BloodBank's stock.
+- 
 -Admin: BloodBank information is accessible to the Admin for monitoring and management.
+
 
 2.3. Admin Object: 
 Attributes: 
