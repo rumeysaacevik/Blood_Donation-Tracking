@@ -1,18 +1,24 @@
  # Donation-Tracking
 
-1) Main Purpose of the Project: 
+1) Main Purpose of the Project:
+
 The project aims to develop a Blood Donation Tracking System where donors can register, 
 donate blood, and track their donation history. Admin functionalities include managing blood 
 stock, donor information, and ensuring eligibility criteria.
 
-2) Program Objects and Relationship: 
+3) Program Objects and Relationship: 
 2.1) Donor Object: 
 Attributes:
 - Name: Represents the full name of the donor.
+ 
 - Gender: Denotes the gender of the donor.
+  
 - Date of Birth: Records the donor's date of birth.
+  
 -Blood Group: Indicates the blood group of the donor.
+
 -Eligibility: Flags whether the donor is eligible for blood donation.
+
 -Donation Count: Keeps track of the number of blood donations made by the donor.
 
 Methods:  
