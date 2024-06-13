@@ -1,14 +1,14 @@
  # Donation-Tracking
 
-1) Main Purpose of the Project:
+# 1) Main Purpose of the Project:
 
 The project aims to develop a Blood Donation Tracking System where donors can register, 
 donate blood, and track their donation history. Admin functionalities include managing blood 
 stock, donor information, and ensuring eligibility criteria.
 
-2) Program Objects and Relationship:
+# 2) Program Objects and Relationship:
 
-2.1) Donor Object: 
+# 2.1) Donor Object: 
 Attributes:
 - Name: Represents the full name of the donor.
  
@@ -32,21 +32,21 @@ Methods:
 -writeDonationInfoToFile():Records the donor's information in a file after each donation. 
 
 
-Relationships: 
+ Relationships: 
 - BloodBank: Donors contribute to the blood stock managed by the BloodBank.
   
 - Admin: Donor information can be accessed by the Admin for monitoring and management.
   
 -Patient: Donors may have relationships with patients through blood donation.
 
-2.2. BloodBank Object: 
+# 2.2. BloodBank Object: 
 Attributes:
 - Blood Groups: An array representing the different blood groups and their respective stock levels.
 
 -Logs: Records of important actions such as stock updates.
 
 
-Methods: 
+ Methods: 
 - displayBloodGroups(): Presents information about the available blood groups and their stock.
   
 -addBloodStock():Increases the stock of a specific blood group.
@@ -56,15 +56,15 @@ Methods:
 -deleteBloodStock():Removes a blood group from the stock.
 
 
-Relationships: 
+ Relationships: 
 - Donor: Blood donations from donors contribute to the BloodBank's stock.
   
 -Admin: BloodBank information is accessible to the Admin for monitoring and management.
 
 
-2.3. Admin Object: 
+# 2.3. Admin Object: 
 
-Attributes:
+ Attributes:
 
 - Username and Password: Credentials for secure Admin login.
   
@@ -94,7 +94,7 @@ Relationships:
 -Patient: Admin handles patient registrations and login validations.
 
 
-3) Rules:
+# 3) Rules:
 
 3.1-)Donors must provide necessary information during registration.
    
