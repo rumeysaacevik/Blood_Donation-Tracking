@@ -34,9 +34,9 @@ Methods:
 
 Relationships: 
 - BloodBank: Donors contribute to the blood stock managed by the BloodBank.
-- 
+  
 - Admin: Donor information can be accessed by the Admin for monitoring and management.
-- 
+  
 -Patient: Donors may have relationships with patients through blood donation.
 
 2.2. BloodBank Object: 
@@ -48,7 +48,7 @@ Attributes:
 
 Methods: 
 - displayBloodGroups(): Presents information about the available blood groups and their stock.
-- 
+  
 -addBloodStock():Increases the stock of a specific blood group.
 
 -updateBloodStock():Modifies the quantity of a specific blood group in the stock.
@@ -58,26 +58,41 @@ Methods:
 
 Relationships: 
 - Donor: Blood donations from donors contribute to the BloodBank's stock.
-- 
+  
 -Admin: BloodBank information is accessible to the Admin for monitoring and management.
 
 
 2.3. Admin Object: 
-Attributes: 
+
+Attributes:
+
 - Username and Password: Credentials for secure Admin login.
-- Patient Database: Stores information about registered patients. 
+  
+- Patient Database: Stores information about registered patients.
+  
 Methods:
+
 -displayBloodStock():Allows the Admin to view the current blood stock.
+
 -addBloodStock():Enables the Admin to increase the stock of a specific blood group.
+
 -updateBloodStock():Permits the Admin to modify the quantity of a specific blood group in the stock.
+
 -deleteBloodStock():Allows the Admin to remove a blood group from the stock.
+s
 -loginPatient():Validates patient login credentials.
+
 -registerPatient():Facilitates the registration process for new patients.
 
+
 Relationships: 
+
 -Donor: Admin oversees and manages donor information
+
 -BloodBank: Admin has control over blood stock management. 
+
 -Patient: Admin handles patient registrations and login validations.
+
 
 4) Rules:
 
