@@ -6,7 +6,8 @@ The project aims to develop a Blood Donation Tracking System where donors can re
 donate blood, and track their donation history. Admin functionalities include managing blood 
 stock, donor information, and ensuring eligibility criteria.
 
-3) Program Objects and Relationship: 
+2) Program Objects and Relationship:
+
 2.1) Donor Object: 
 Attributes:
 - Name: Represents the full name of the donor.
