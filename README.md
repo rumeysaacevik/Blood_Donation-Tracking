@@ -23,7 +23,8 @@ Methods: -displayBloodStock():Allows the Admin to view the current blood stock. 
 the stock. -deleteBloodStock():Allows the Admin to remove a blood group from the stock. -loginPatient():Validates patient login credentials. -registerPatient():Facilitates the registration process for new patients. 
 Relationships: -Donor: Admin oversees and manages donor information -BloodBank: Admin has control over blood stock management. -Patient: Admin handles patient registrations and login validations.
 
-3) Rules: 
+3) Rules:
+4) 
 3.1-)Donors must provide necessary information during registration.
    
 3.2-)Admin can manage blood stock, donor information, and patient registrations. 
